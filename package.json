@@ -1,0 +1,31 @@
+{
+  "name": "glc-sketches",
+  "version": "1.0.0",
+  "description": "glc sketches and magic",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calderonsteven/glc-sketches.git"
+  },
+  "keywords": [
+    "gif",
+    "loop",
+    "coder",
+    "glc",
+    "animation",
+    "gif",
+    "geometry"
+  ],
+  "author": "Steven Calderon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calderonsteven/glc-sketches/issues"
+  },
+  "homepage": "https://github.com/calderonsteven/glc-sketches",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
